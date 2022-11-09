@@ -30,10 +30,12 @@
 ![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=Redux&labelColor=0D1117)&nbsp;
+![React_Router](https://img.shields.io/badge/React_Router-0D1117?style=for-the-badge&logo=react-router&labelColor=0D1117)&nbsp;
+![styled--components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&labelColor=0D1117)&nbsp;
   
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Arlisson314}/count.svg" /></p> 
+<br><p align="centre"><b>Visitors Count</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Arlisson314}/count.svg" /></p>
 <br></div>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>****
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
