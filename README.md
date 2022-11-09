@@ -14,5 +14,5 @@
 </p>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/arlisson-nascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=#0a66c2"</a>
+<a href="https://www.linkedin.com/in/arlisson-nascimento/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=#0a66c2"</a>
 </div>
