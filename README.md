@@ -29,6 +29,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=Node.js&labelColor=0D1117)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=Redux&labelColor=0D1117)&nbsp;
   
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
