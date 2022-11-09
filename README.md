@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Arlisson+Nascimento+Costa&fontSize=30&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Arlisson;I'm+30+years+old;I+from+Brasil,+MA;I+study+Web+development+at+Trybe;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Arlisson;I'm+30+years+old;I+from+Brasil,+MA;I+study+Web+development+at+Trybe;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Arlisson314&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Arlisson Nascimento Costa github stats" /> 
@@ -32,6 +32,7 @@
 ![Redux](https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=Redux&labelColor=0D1117)&nbsp;
 ![React_Router](https://img.shields.io/badge/React_Router-0D1117?style=for-the-badge&logo=react-router&labelColor=0D1117)&nbsp;
 ![styled--components](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&labelColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
   
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -39,6 +40,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117&)&nbsp;
+  
+### Other Knowledge:
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![SolidJS](https://img.shields.io/badge/SolidJS-0D1117?style=for-the-badge&logo=solid&logoColor=c8c9cb)&nbsp;
+![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=JSON%20web%20tokens)&nbsp;
+![Heroku](https://img.shields.io/badge/heroku-0D1117?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
