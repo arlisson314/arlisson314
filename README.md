@@ -40,6 +40,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117&)&nbsp;
+![Slack](https://img.shields.io/badge/Slack-0D1117?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+![Zoom](https://img.shields.io/badge/Zoom-0D1117?style=for-the-badge&logo=zoom&logoColor=white)&nbsp;
   
 ### Other Knowledge:
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
