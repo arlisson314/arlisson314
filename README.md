@@ -50,7 +50,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-0D1117?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-0D1117?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![NPM](https://img.shields.io/badge/NPM-0D1117?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
-
+![Sequelize](https://img.shields.io/badge/Sequelize-0D1117?style=for-the-badge&logo=Sequelize&logoColor=white)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
