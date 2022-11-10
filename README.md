@@ -46,6 +46,8 @@
 ![SolidJS](https://img.shields.io/badge/SolidJS-0D1117?style=for-the-badge&logo=solid&logoColor=c8c9cb)&nbsp;
 ![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=JSON%20web%20tokens)&nbsp;
 ![Heroku](https://img.shields.io/badge/heroku-0D1117?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-0D1117?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![NPM](https://img.shields.io/badge/NPM-0D1117?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
 
 
 <div align="center">
